@@ -1,0 +1,14 @@
+name: CrisenpuerEssentials
+version: 0.1.0
+main: org.eu.pl.crisenpuer.spigot.crisenpuer_essentials.CEssentials
+api-version: 1.20.6
+commands:
+  getitemsjson:
+    description: Save all Minecraft items to a JSON file.
+    usage: /getitemsjson
+  invjson:
+    description: Save a player's inventory to a JSON file.
+    usage: /invjson <player>
+  menu:
+    description: Otwórz główne menu serwera
+    usage: /menu
