@@ -1,0 +1,7 @@
+jda:
+  token: "YOUR BOT'S TOKEN HERE"
+  channels:
+    chat: "Chat integration channel id"
+    reports: "Report's channel id"
+  roles:
+    mc_mod: "Minecraft mods discord role id"
